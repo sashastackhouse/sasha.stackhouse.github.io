@@ -8,3 +8,7 @@ p {
     font-family: 'Raleway', sans-serif;
     font-size: 20px;
 }
+.header {
+    background-image: url(https://pixabay.com/illustrations/background-art-abstract-watercolor-2633962/);
+    text-align: center;
+}
