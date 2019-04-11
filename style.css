@@ -1,7 +1,7 @@
 h1, h2 {
     font-family: 'Amatic SC', cursive;
     font-weight: bold;
-    font-size: 40px;
+    font-size: 30px;
 }
 
 p {
@@ -11,4 +11,5 @@ p {
 .header {
     background-image: url(https://pixabay.com/illustrations/background-art-abstract-watercolor-2633962/);
     text-align: center;
+    font-size: 40px;
 }
