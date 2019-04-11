@@ -1,6 +1,6 @@
 h1, h2 {
     font-family: 'Amatic SC', cursive;
-    font-weight: bold;
+    font-weight: 100;
     font-size: 50px;
 }
 
@@ -12,7 +12,8 @@ p {
     background: url(https://lh3.googleusercontent.com/rDChTyMkxE8YlILUOVdv9aQ1SeGGnpiKostwvF2CpcQsYsR6vQolE-YJVQS5Kt4GW4AezEu8TWNrayqEt47gDktmtZsqt-vsXjEYEFyIUKlkxV6UbDZZ2gdJbafVN9--X4Cng9eA4g=w2400);
     text-align: center;
     font-size: 100px;
-    font-family: 'Fredericka the Great', cursive;
+    font-family: 'Amatic SC', cursive;
+    font-weight: bold;
 }
 headshot {
     position: relative;
